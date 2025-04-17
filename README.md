@@ -101,7 +101,8 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    width="50%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gabriel-David-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
