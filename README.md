@@ -110,8 +110,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      width="80%"
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-david-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
